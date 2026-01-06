@@ -1,5 +1,6 @@
-# Screenshots folder (keep the folder, ignore contents until screenshots are added)
+# Screenshots folder (allow PNG files)
 screenshots/*
+!screenshots/*.png
 !screenshots/.gitkeep
 
 # OS files
